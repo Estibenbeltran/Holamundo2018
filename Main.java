@@ -14,5 +14,11 @@ public class Main{
 		System.out.println("");
 		System.out.println("la res es ="+(var1-var2));
 		System.out.println("");
+
+		int i, b=100;
+
+		for(i=0; i<b; i++){
+			System.out.println(b);
+		}
 	}	
 }
