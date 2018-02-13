@@ -15,10 +15,11 @@ public class Main{
 		System.out.println("la res es ="+(var1-var2));
 		System.out.println("");
 
-		int i, b=100;
+		int b=100;
 
-		for(i=0; i<b; i++){
+		while(b>0){
 			System.out.println(b);
+			b--;
 		}
 	}	
 }
